@@ -69,3 +69,7 @@ Model deployment is outside the scope of this project. The focus is on data anal
 
 ---
 ## Author
+👤 Kousik Chakraborty
+📧 Email: www.kousik.c.in@gmail.com
+🔗 GitHub Profile: https://github.com/iamkousikc-create18
+🔗 Project Repository: https://github.com/iamkousikc-create18/Customer-Churn-Analysis
